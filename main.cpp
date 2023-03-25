@@ -1,5 +1,4 @@
-//Final computer science project
-//By: Ahmed Fawzy -  ICS4U1-02
+//By: Ahmed Fawzy
 
 //This is the main.cpp
 //This main.cpp file simply calls the necessary methods
